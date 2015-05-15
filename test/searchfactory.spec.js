@@ -1,4 +1,4 @@
-describe('factory: search', function() {
+describe('factory: Search', function() {
 
   var search;
 
